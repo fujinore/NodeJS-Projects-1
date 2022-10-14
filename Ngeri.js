@@ -8,7 +8,7 @@ scoreEl.innerHTML = score;
 const words = ['sigh',
 'tense',
 'airplane',
-'ball',
+'balla',
 'pies',
 'juice',
 'warlike',
